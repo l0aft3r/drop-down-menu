@@ -1,0 +1,23 @@
+{
+  "name": "drop-down-menu",
+  "version": "1.0.0",
+  "description": "Drop-down menu functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l0aft3r/drop-down-menu.git"
+  },
+  "keywords": [
+    "menu",
+    "drop-down-menu"
+  ],
+  "author": "l0aft3r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l0aft3r/drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/l0aft3r/drop-down-menu#readme"
+}

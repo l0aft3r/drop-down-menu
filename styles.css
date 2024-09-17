@@ -1,0 +1,25 @@
+.dropdown-untoggled {
+    position: relative;
+    width: fit-content;
+    ul {
+        display: none;
+    }
+}
+
+.dropdown-toggled {
+    position: relative;
+    width: fit-content;
+    ul {
+        position: absolute;
+        width: fit-content;
+        padding: 0px;
+    }
+
+    li {
+        list-style-type: none;
+    }
+
+    li button {
+        width: 100%;
+    }
+}
